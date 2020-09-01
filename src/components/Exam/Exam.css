@@ -1,0 +1,122 @@
+
+ 
+body {
+    direction: rtl;
+    font-family: 'Shabnam-Bold';
+    
+}
+.button{
+    text-align: center;
+    margin-top: -10px;
+    font-family:'Shabnam-Bold'!important;
+}
+.selectBox{
+    text-align: center;
+}
+.examInput{
+    font-family:'Shabnam-Bold'!important;}
+ .All{
+    /* background: linear-gradient(to top left, #6699ff 0%, #ff99cc 100%); */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1); 
+	width: 75%;
+	margin: 90px auto 20px auto;
+    background-color: #f7f9fc;
+    border-radius: 3.25rem!important;
+ }
+ .examBox{
+    background: linear-gradient(to top left, #fff 0%, #6699ff 0%);
+    height: 50px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1); 
+     border-radius:0 0 30px 30px;
+     margin-left: auto;
+     margin-right: auto;
+}
+.exam h4{
+    /* padding: 130px 10px 0 0; */
+    color:rgb(248, 241, 241)!important;
+    font-size:25px;
+    font-family:'Shabnam-Bold';
+    text-align: center;
+    margin-top :15px;
+
+}
+
+.form-control{
+    margin-top: 0px!important;
+    text-align: center;
+}
+.btn-success {
+   border-radius: 35px;
+}
+#ContentPlaceHolder1_q_list {
+   text-align: center;
+   font-size: 30px;
+}
+#ContentPlaceHolder1_Panel1 {
+   text-align: center;
+   font-size: 15px;
+}
+/* .btnRegister{
+    border: none;
+    border-radius: 0.5rem;
+    padding: 2%;
+    background: #0062cc;
+    color: #fff;
+    font-weight: 600;
+    width: 50%;
+    cursor: pointer;
+} */
+
+.MuiSelect-selectMenu-27{
+    width: 200px!important;
+   
+}
+.MuiFormHelperText-root-73{
+    text-align: right!important;
+    font-family: sans-serif!important;
+}
+.MuiButton-root-342{
+    border-radius: 20px!important;
+    margin-top: 33px!important;
+}
+.MuiButton-containedPrimary-93 {
+    color: #fff;
+    background-color: #6699ff!important;
+    font-family: sans-serif!important;
+}
+.MuiInputBase-root-43 {
+    font-family: sans-serif!important;
+}
+.MuiMenuItem-root-196{
+    font-family: sans-serif!important;
+}
+.MuiMenuItem-root-242{
+    font-family: sans-serif!important;
+}
+.MuiInputBase-input-53{
+    text-align: right!important;
+}
+.Exam-formControl-12{
+    border-radius: 20px!important;
+    margin-top: 33px!important;
+}
+.h2{
+text-align-last: center;
+height: 70px;
+border-radius: 10px;
+color:rgb(112, 95, 95)!important;
+font-weight: 50px!important;
+  line-height: 1.3!important; 
+
+/* font-style: italic; */
+}
+@font-face {
+    font-family: 'Shabnam-Bold';
+    /* font-style: normal; */
+    /* font-weight: 400; */
+    src: url('../../webFonts/Shabnam-Bold.woff');
+}
+.MuiButton-root-81{
+    border-radius: 20px!important;
+    margin-top: 33px!important;
+}

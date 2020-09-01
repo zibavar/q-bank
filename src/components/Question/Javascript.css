@@ -1,0 +1,41 @@
+.btn-success {
+ 
+    border-radius: 35px;
+ }
+ #ContentPlaceHolder1_q_list {
+    text-align: right;
+    font-size: 15px;
+ }
+ #ContentPlaceHolder1_Panel1 {
+    text-align: right;
+    font-size: 20px;
+ }
+ .label{
+    margin-right: 10px!important;  
+ }
+ .btn dc{
+    padding: .375rem 2.75rem!important;
+    border-radius: 3.25rem!important;
+ }
+ /* .border{
+     border:transparent!important;
+     height: 400px;
+     padding-top: 33px;
+
+ } */
+ .QuestionBox{
+  text-align: center;
+  margin-top: 30px;
+  font-family:'Shabnam-Bold'!important;
+ }
+ .QuestionBox1{
+    
+     font-family:'Shabnam-Bold'!important;
+ }
+ .MuiButton-root-81{
+     background-color:#6699ff!important; 
+     color: #fff!important;
+ }
+ .MuiButton-contained-92{
+    margin-left: 20px!important;
+ }

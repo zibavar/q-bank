@@ -1,0 +1,34 @@
+.firstCol{
+    background: linear-gradient(to top left, #fff 0%, #6699ff 0%);
+    height: 300px;
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1); 
+     border-radius:0 0 24.5rem 24.5rem;
+     margin-left: auto;
+     margin-right: auto;
+    
+}
+.qbannkCol{
+    background-color: #fff;
+    margin:80px auto 16px auto;
+    border-radius: 50px;
+    padding: 19px 10px 19px 0; 
+	color: #6699ff;
+    text-align: -webkit-center;
+    font-size: 50px;
+	font-weight: 700px;
+	text-shadow:0 1px 4px rgba(0,0,0,.2);
+}
+.h5{
+    color: #fff!important;
+    font-family:'Shabnam-Bold'!important;
+    font-size: 15px!important;
+}
+.formCol{
+    background-color: #fff;  
+    margin:10px auto 5px auto;
+    padding: 19px 10px 19px 0; 
+    border-radius: 25px;
+    box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1); 
+}
+
+

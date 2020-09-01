@@ -1,0 +1,24 @@
+.form-control {
+    width: 20%;
+    margin-top: 32px;
+    margin-left: 32px;
+}
+@font-face {
+    font-family: 'Shabnam-Bold';
+    /* font-style: normal; */
+    /* font-weight: 400; */
+    src: url('./webFonts/Shabnam-Bold.woff');
+}
+body {
+    direction: rtl;
+    font-family: 'Shabnam-Bold';
+    text-align: right;
+    /* background-color: #f2f2f2!important; */
+}
+
+.main {
+    font-family: 'Shabnam-Bold';
+     font-style: normal; 
+     font-weight: 400; 
+    src: url('./webFonts/Shabnam-Bold.woff');
+}
